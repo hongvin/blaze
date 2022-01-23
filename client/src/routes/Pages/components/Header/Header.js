@@ -32,7 +32,6 @@ function Header() {
         <Pill>v{pkg.version}</Pill>
       </a>
 
-      </nav>
     </header>
   );
 }
